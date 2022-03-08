@@ -16,8 +16,8 @@ ROYALBOY871/ROYALBOY871 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-On Telegram find me by username- @KartiK_KinG01
+On Telegram find me by username- [@KartiK_KinG01](https://t.me/KartiK_KinG01)
 
 Owner of - ROYAL_USERBOT
-<https://telegra.ph/file/07b8bf2e56dc4b75be9b6.jpg>
+
 
