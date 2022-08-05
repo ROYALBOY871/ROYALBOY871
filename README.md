@@ -21,7 +21,6 @@
 <br>
   
 ----
-![GitHub followers](https://img.shields.io/github/followers/ROYALBOY871?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=ROYALBOY871.ROYALBOY871)
 [![Profile views](https://komarev.com/ghpvc/?username=LEGEND-OS&label=Profile%20views)](https://github.com/ROYALBOY871)
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=ROYALBOY871)
