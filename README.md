@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=I'm kidz%E2%9C%8C%EF%B8%8F;has knowledge about Python%2C+Java%2C+Linux%E2%9D%A4%EF%B8%8F">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=I'm kidz from india%E2%9C%8C%EF%B8%8F;has+knowledge+about+Python%2C+Java%2C+Linux%E2%9D%A4%EF%B8%8F">
 </p> 
 <br>
 
